@@ -136,42 +136,42 @@
 <library name="jason_eagle6">
 <packages>
 <package name="OLED_CONN">
-<smd name="1" x="23.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="2" x="22.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="3" x="22.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="4" x="21.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="5" x="20.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="6" x="20.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="7" x="19.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="8" x="18.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="9" x="17.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="10" x="17.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="11" x="16.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="12" x="15.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="13" x="15.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="14" x="14.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="15" x="13.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="16" x="13.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="17" x="12.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="18" x="11.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="19" x="10.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="20" x="10.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="21" x="9.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="22" x="8.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="23" x="8.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="24" x="7.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="25" x="6.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="26" x="6.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="27" x="5.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="28" x="4.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="29" x="3.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
-<smd name="30" x="3.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="30" x="23.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="29" x="22.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="28" x="22.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="27" x="21.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="26" x="20.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="25" x="20.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="24" x="19.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="23" x="18.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="22" x="17.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="21" x="17.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="20" x="16.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="19" x="15.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="18" x="15.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="17" x="14.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="16" x="13.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="15" x="13.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="14" x="12.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="13" x="11.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="12" x="10.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="11" x="10.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="10" x="9.5112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="9" x="8.8112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="8" x="8.1112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="7" x="7.4112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="6" x="6.7112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="5" x="6.0112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="4" x="5.3112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="3" x="4.6112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="2" x="3.9112" y="14.8098" dx="0.4" dy="2" layer="16"/>
+<smd name="1" x="3.2112" y="14.8098" dx="0.4" dy="2" layer="16"/>
 <wire x1="24.2112" y1="13.4098" x2="24.2112" y2="16.2098" width="0.127" layer="22"/>
 <wire x1="24.2112" y1="16.2098" x2="2.5112" y2="16.2098" width="0.127" layer="22"/>
 <wire x1="2.5112" y1="16.2098" x2="2.5112" y2="13.4098" width="0.127" layer="22"/>
 <wire x1="2.5112" y1="13.4098" x2="7.3514" y2="9.2808" width="0.127" layer="22"/>
 <wire x1="19.3202" y1="9.2808" x2="24.2112" y2="13.4098" width="0.127" layer="22"/>
-<circle x="23.5112" y="13.3098" radius="0.2" width="0.127" layer="22"/>
+<circle x="3.1912" y="13.3098" radius="0.2" width="0.127" layer="22"/>
 <wire x1="0" y1="7" x2="26.7" y2="7" width="0.127" layer="21"/>
 <wire x1="0" y1="7" x2="0" y2="11.4" width="0.127" layer="21"/>
 <wire x1="0" y1="11.4" x2="0" y2="11.43" width="0.127" layer="21"/>
@@ -14202,10 +14202,10 @@ Based on the following sources:
 <label x="38.1" y="-12.7" size="1.778" layer="95" rot="R270"/>
 </segment>
 <segment>
-<label x="109.22" y="0" size="1.778" layer="95"/>
-<wire x1="121.92" y1="0" x2="111.76" y2="0" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="A" pin="3"/>
-<junction x="121.92" y="0"/>
+<label x="106.68" y="5.08" size="1.778" layer="95"/>
+<pinref part="JP1" gate="A" pin="1"/>
+<wire x1="111.76" y1="5.08" x2="121.92" y2="5.08" width="0.1524" layer="91"/>
+<junction x="121.92" y="5.08"/>
 </segment>
 </net>
 <net name="SCL" class="0">
@@ -14216,8 +14216,8 @@ Based on the following sources:
 </segment>
 <segment>
 <label x="106.68" y="2.54" size="1.778" layer="95"/>
-<wire x1="121.92" y1="2.54" x2="111.76" y2="2.54" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="A" pin="2"/>
+<wire x1="111.76" y1="2.54" x2="121.92" y2="2.54" width="0.1524" layer="91"/>
 <junction x="121.92" y="2.54"/>
 </segment>
 </net>
@@ -14299,10 +14299,10 @@ Based on the following sources:
 <wire x1="25.4" y1="-20.32" x2="25.4" y2="-7.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="JP1" gate="A" pin="1"/>
-<wire x1="121.92" y1="5.08" x2="99.06" y2="5.08" width="0.1524" layer="91"/>
-<label x="99.06" y="5.08" size="1.778" layer="95"/>
-<junction x="121.92" y="5.08"/>
+<label x="106.68" y="0" size="1.778" layer="95"/>
+<wire x1="121.92" y1="0" x2="99.06" y2="0" width="0.1524" layer="91"/>
+<pinref part="JP1" gate="A" pin="3"/>
+<junction x="121.92" y="0"/>
 </segment>
 </net>
 <net name="N$11" class="0">
