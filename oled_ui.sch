@@ -6936,7 +6936,7 @@ Parts Updated:
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="REG1" library="microbuilder" deviceset="VREG_SOT23" device=""/>
+<part name="IC2" library="microbuilder" deviceset="VREG_SOT23" device=""/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0805"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 </parts>
@@ -7005,7 +7005,7 @@ Parts Updated:
 <instance part="GND7" gate="1" x="142.24" y="-111.76"/>
 <instance part="R9" gate="G$1" x="45.72" y="-22.86" rot="R180"/>
 <instance part="R10" gate="G$1" x="45.72" y="-25.4" rot="R180"/>
-<instance part="REG1" gate="G$1" x="162.56" y="-15.24"/>
+<instance part="IC2" gate="G$1" x="162.56" y="-15.24"/>
 <instance part="C2" gate="G$1" x="144.78" y="-22.86" smashed="yes">
 <attribute name="NAME" x="142.875" y="-19.558" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="146.304" y="-27.559" size="1.778" layer="96"/>
@@ -7245,7 +7245,7 @@ Parts Updated:
 <pinref part="5B" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="REG1" gate="G$1" pin="GND"/>
+<pinref part="IC2" gate="G$1" pin="GND"/>
 <wire x1="152.4" y1="-17.78" x2="149.86" y2="-17.78" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="-17.78" x2="149.86" y2="-35.56" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="2"/>
@@ -7329,7 +7329,7 @@ Parts Updated:
 <label x="53.34" y="-33.02" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="REG1" gate="G$1" pin="VOUT"/>
+<pinref part="IC2" gate="G$1" pin="VOUT"/>
 <wire x1="172.72" y1="-12.7" x2="182.88" y2="-12.7" width="0.1524" layer="91"/>
 <label x="180.34" y="-12.7" size="1.778" layer="95"/>
 </segment>
@@ -7612,7 +7612,7 @@ Parts Updated:
 <label x="96.52" y="-12.7" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="REG1" gate="G$1" pin="VIN"/>
+<pinref part="IC2" gate="G$1" pin="VIN"/>
 <wire x1="152.4" y1="-12.7" x2="144.78" y2="-12.7" width="0.1524" layer="91"/>
 <label x="134.62" y="-12.7" size="1.778" layer="95"/>
 <pinref part="C2" gate="G$1" pin="1"/>
@@ -7659,19 +7659,19 @@ Parts Updated:
 <approved hash="113,1,98.0652,-58.42,R6,,,,,"/>
 <approved hash="113,1,100.605,-58.42,R7,,,,,"/>
 <approved hash="113,1,103.145,-58.42,R8,,,,,"/>
-<approved hash="113,1,134.62,-69.5748,R11,,,,,"/>
-<approved hash="113,1,134.62,-82.2748,R12,,,,,"/>
-<approved hash="113,1,134.62,-94.9748,R13,,,,,"/>
-<approved hash="113,1,134.62,-130.535,R14,,,,,"/>
-<approved hash="113,1,134.62,-143.235,R15,,,,,"/>
-<approved hash="113,1,134.62,-155.935,R16,,,,,"/>
-<approved hash="113,1,143.235,-162.56,R23,,,,,"/>
-<approved hash="113,1,143.235,-147.32,R22,,,,,"/>
-<approved hash="113,1,143.235,-134.62,R21,,,,,"/>
-<approved hash="113,1,153.395,-104.14,R20,,,,,"/>
-<approved hash="113,1,143.235,-104.14,R19,,,,,"/>
-<approved hash="113,1,143.235,-86.36,R18,,,,,"/>
-<approved hash="113,1,143.235,-73.66,R17,,,,,"/>
+<approved hash="113,1,134.62,-69.5748,8B,,,,,"/>
+<approved hash="113,1,134.62,-82.2748,7B,,,,,"/>
+<approved hash="113,1,134.62,-94.9748,6B,,,,,"/>
+<approved hash="113,1,134.62,-130.535,4B,,,,,"/>
+<approved hash="113,1,134.62,-143.235,3B,,,,,"/>
+<approved hash="113,1,134.62,-155.935,2B,,,,,"/>
+<approved hash="113,1,143.235,-162.56,1B,,,,,"/>
+<approved hash="113,1,143.235,-147.32,1A,,,,,"/>
+<approved hash="113,1,143.235,-134.62,2A,,,,,"/>
+<approved hash="113,1,153.395,-104.14,J1,,,,,"/>
+<approved hash="113,1,143.235,-104.14,5B,,,,,"/>
+<approved hash="113,1,143.235,-86.36,3A,,,,,"/>
+<approved hash="113,1,143.235,-73.66,4A,,,,,"/>
 <approved hash="113,1,45.72,-23.8548,R9,,,,,"/>
 <approved hash="113,1,45.72,-26.3948,R10,,,,,"/>
 <approved hash="113,1,162.56,-13.1868,REG1,,,,,"/>
