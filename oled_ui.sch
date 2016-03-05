@@ -6920,19 +6920,19 @@ Parts Updated:
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="R7" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R13" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R14" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R15" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R16" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R23" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R22" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R21" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R20" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R19" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R18" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R17" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="8B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="7B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="6B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="4B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="3B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="2B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="1B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="1A" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="2A" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="J1" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="5B" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="3A" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="4A" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0805"/>
@@ -6989,19 +6989,19 @@ Parts Updated:
 <instance part="R6" gate="G$1" x="99.06" y="-58.42" rot="R90"/>
 <instance part="R7" gate="G$1" x="101.6" y="-58.42" rot="R90"/>
 <instance part="R8" gate="G$1" x="104.14" y="-58.42" rot="R90"/>
-<instance part="R11" gate="G$1" x="134.62" y="-68.58" rot="R180"/>
-<instance part="R12" gate="G$1" x="134.62" y="-81.28" rot="R180"/>
-<instance part="R13" gate="G$1" x="134.62" y="-93.98" rot="R180"/>
-<instance part="R14" gate="G$1" x="134.62" y="-129.54" rot="R180"/>
-<instance part="R15" gate="G$1" x="134.62" y="-142.24" rot="R180"/>
-<instance part="R16" gate="G$1" x="134.62" y="-154.94" rot="R180"/>
-<instance part="R23" gate="G$1" x="142.24" y="-162.56" rot="R270"/>
-<instance part="R22" gate="G$1" x="142.24" y="-147.32" rot="R270"/>
-<instance part="R21" gate="G$1" x="142.24" y="-134.62" rot="R270"/>
-<instance part="R20" gate="G$1" x="152.4" y="-104.14" rot="R270"/>
-<instance part="R19" gate="G$1" x="142.24" y="-104.14" rot="R270"/>
-<instance part="R18" gate="G$1" x="142.24" y="-86.36" rot="R270"/>
-<instance part="R17" gate="G$1" x="142.24" y="-73.66" rot="R270"/>
+<instance part="8B" gate="G$1" x="134.62" y="-68.58" rot="R180"/>
+<instance part="7B" gate="G$1" x="134.62" y="-81.28" rot="R180"/>
+<instance part="6B" gate="G$1" x="134.62" y="-93.98" rot="R180"/>
+<instance part="4B" gate="G$1" x="134.62" y="-129.54" rot="R180"/>
+<instance part="3B" gate="G$1" x="134.62" y="-142.24" rot="R180"/>
+<instance part="2B" gate="G$1" x="134.62" y="-154.94" rot="R180"/>
+<instance part="1B" gate="G$1" x="142.24" y="-162.56" rot="R270"/>
+<instance part="1A" gate="G$1" x="142.24" y="-147.32" rot="R270"/>
+<instance part="2A" gate="G$1" x="142.24" y="-134.62" rot="R270"/>
+<instance part="J1" gate="G$1" x="152.4" y="-104.14" rot="R270"/>
+<instance part="5B" gate="G$1" x="142.24" y="-104.14" rot="R270"/>
+<instance part="3A" gate="G$1" x="142.24" y="-86.36" rot="R270"/>
+<instance part="4A" gate="G$1" x="142.24" y="-73.66" rot="R270"/>
 <instance part="GND7" gate="1" x="142.24" y="-111.76"/>
 <instance part="R9" gate="G$1" x="45.72" y="-22.86" rot="R180"/>
 <instance part="R10" gate="G$1" x="45.72" y="-25.4" rot="R180"/>
@@ -7236,13 +7236,13 @@ Parts Updated:
 <label x="96.52" y="-20.32" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="R23" gate="G$1" pin="2"/>
+<pinref part="1B" gate="G$1" pin="2"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 <wire x1="142.24" y1="-167.64" x2="142.24" y2="-170.18" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND7" gate="1" pin="GND"/>
-<pinref part="R19" gate="G$1" pin="2"/>
+<pinref part="5B" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="REG1" gate="G$1" pin="GND"/>
@@ -7457,12 +7457,12 @@ Parts Updated:
 <segment>
 <label x="160.02" y="-121.92" size="1.778" layer="95"/>
 <wire x1="160.02" y1="-121.92" x2="152.4" y2="-121.92" width="0.1524" layer="91"/>
-<pinref part="R20" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="2"/>
 <wire x1="152.4" y1="-121.92" x2="152.4" y2="-109.22" width="0.1524" layer="91"/>
-<pinref part="R21" gate="G$1" pin="1"/>
+<pinref part="2A" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="-129.54" x2="142.24" y2="-121.92" width="0.1524" layer="91"/>
 <junction x="142.24" y="-129.54"/>
-<pinref part="R14" gate="G$1" pin="1"/>
+<pinref part="4B" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="-129.54" x2="142.24" y2="-129.54" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="-121.92" x2="142.24" y2="-121.92" width="0.1524" layer="91"/>
 <junction x="152.4" y="-121.92"/>
@@ -7477,8 +7477,8 @@ Parts Updated:
 <segment>
 <label x="142.24" y="-63.5" size="1.778" layer="95"/>
 <wire x1="142.24" y1="-68.58" x2="142.24" y2="-66.04" width="0.1524" layer="91"/>
-<pinref part="R11" gate="G$1" pin="1"/>
-<pinref part="R17" gate="G$1" pin="1"/>
+<pinref part="8B" gate="G$1" pin="1"/>
+<pinref part="4A" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="-68.58" x2="142.24" y2="-68.58" width="0.1524" layer="91"/>
 <junction x="142.24" y="-68.58"/>
 </segment>
@@ -7491,30 +7491,30 @@ Parts Updated:
 <net name="N$7" class="0">
 <segment>
 <pinref part="IC1" gate="D" pin="O"/>
-<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="4B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-129.54" x2="129.54" y2="-129.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$15" class="0">
 <segment>
 <pinref part="IC1" gate="E" pin="O"/>
-<pinref part="R15" gate="G$1" pin="2"/>
+<pinref part="3B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-142.24" x2="129.54" y2="-142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$16" class="0">
 <segment>
 <pinref part="IC1" gate="F" pin="O"/>
-<pinref part="R16" gate="G$1" pin="2"/>
+<pinref part="2B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-154.94" x2="129.54" y2="-154.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="R23" gate="G$1" pin="1"/>
-<pinref part="R22" gate="G$1" pin="2"/>
+<pinref part="1B" gate="G$1" pin="1"/>
+<pinref part="1A" gate="G$1" pin="2"/>
 <wire x1="142.24" y1="-157.48" x2="142.24" y2="-154.94" width="0.1524" layer="91"/>
-<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="2B" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="-154.94" x2="142.24" y2="-152.4" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="-154.94" x2="142.24" y2="-154.94" width="0.1524" layer="91"/>
 <junction x="142.24" y="-154.94"/>
@@ -7522,10 +7522,10 @@ Parts Updated:
 </net>
 <net name="N$18" class="0">
 <segment>
-<pinref part="R15" gate="G$1" pin="1"/>
-<pinref part="R22" gate="G$1" pin="1"/>
+<pinref part="3B" gate="G$1" pin="1"/>
+<pinref part="1A" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="-142.24" x2="142.24" y2="-142.24" width="0.1524" layer="91"/>
-<pinref part="R21" gate="G$1" pin="2"/>
+<pinref part="2A" gate="G$1" pin="2"/>
 <wire x1="142.24" y1="-142.24" x2="142.24" y2="-139.7" width="0.1524" layer="91"/>
 <junction x="142.24" y="-142.24"/>
 </segment>
@@ -7533,20 +7533,20 @@ Parts Updated:
 <net name="N$20" class="0">
 <segment>
 <pinref part="IC1" gate="C" pin="O"/>
-<pinref part="R13" gate="G$1" pin="2"/>
+<pinref part="6B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-93.98" x2="129.54" y2="-93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$21" class="0">
 <segment>
-<pinref part="R13" gate="G$1" pin="1"/>
+<pinref part="6B" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="-93.98" x2="142.24" y2="-93.98" width="0.1524" layer="91"/>
-<pinref part="R18" gate="G$1" pin="2"/>
+<pinref part="3A" gate="G$1" pin="2"/>
 <wire x1="142.24" y1="-93.98" x2="142.24" y2="-91.44" width="0.1524" layer="91"/>
-<pinref part="R19" gate="G$1" pin="1"/>
+<pinref part="5B" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="-93.98" x2="142.24" y2="-99.06" width="0.1524" layer="91"/>
 <junction x="142.24" y="-93.98"/>
-<pinref part="R20" gate="G$1" pin="1"/>
+<pinref part="J1" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="-99.06" x2="152.4" y2="-99.06" width="0.1524" layer="91"/>
 <junction x="142.24" y="-99.06"/>
 </segment>
@@ -7554,16 +7554,16 @@ Parts Updated:
 <net name="N$22" class="0">
 <segment>
 <pinref part="IC1" gate="B" pin="O"/>
-<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="7B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-81.28" x2="129.54" y2="-81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$23" class="0">
 <segment>
-<pinref part="R12" gate="G$1" pin="1"/>
-<pinref part="R18" gate="G$1" pin="1"/>
+<pinref part="7B" gate="G$1" pin="1"/>
+<pinref part="3A" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="-81.28" x2="142.24" y2="-81.28" width="0.1524" layer="91"/>
-<pinref part="R17" gate="G$1" pin="2"/>
+<pinref part="4A" gate="G$1" pin="2"/>
 <wire x1="142.24" y1="-81.28" x2="142.24" y2="-78.74" width="0.1524" layer="91"/>
 <junction x="142.24" y="-81.28"/>
 </segment>
@@ -7571,7 +7571,7 @@ Parts Updated:
 <net name="N$24" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="O"/>
-<pinref part="R11" gate="G$1" pin="2"/>
+<pinref part="8B" gate="G$1" pin="2"/>
 <wire x1="127" y1="-68.58" x2="129.54" y2="-68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -7625,7 +7625,8 @@ Parts Updated:
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,5.08,10.16,U$1,VBAT,N$7,,,"/>
+<approved hash="104,1,5.08,10.16,U$1,VBAT,3V3,,,"/>
+<approved hash="103,1,7.62,10.16,U$1,NC,GND,,,"/>
 <approved hash="104,1,10.16,10.16,U$1,VSS,GND,,,"/>
 <approved hash="104,1,12.7,10.16,U$1,VDD,3V3,,,"/>
 <approved hash="104,1,55.88,10.16,U$1,IREF,N$10,,,"/>
@@ -7633,30 +7634,48 @@ Parts Updated:
 <approved hash="104,1,60.96,10.16,U$1,VCC,N$6,,,"/>
 <approved hash="104,1,63.5,10.16,U$1,VLSS,GND,,,"/>
 <approved hash="104,1,66.04,10.16,U$1,GND2,GND,,,"/>
-<approved hash="104,1,116.84,-60.96,IC1P,VCC,3V3,,,"/>
-<approved hash="113,1,14.058,-13.97,C1,,,,,"/>
-<approved hash="113,1,62.318,3.81,C3,,,,,"/>
-<approved hash="113,1,59.778,-1.27,C4,,,,,"/>
+<approved hash="104,1,116.84,-60.96,IC1P,VCC,5V,,,"/>
+<approved hash="104,1,152.4,-12.7,REG1,VIN,5V,,,"/>
+<approved hash="104,1,172.72,-12.7,REG1,VOUT,3V3,,,"/>
 <approved hash="113,1,54.8852,-10.16,R1,,,,,"/>
-<approved hash="113,1,78.74,-76.5895,S1,,,,,"/>
-<approved hash="113,1,78.74,-63.8895,S2,,,,,"/>
-<approved hash="113,1,78.74,-89.2895,S5,,,,,"/>
-<approved hash="113,1,78.74,-124.849,S6,,,,,"/>
-<approved hash="113,1,78.74,-137.549,S4,,,,,"/>
-<approved hash="113,1,78.74,-150.249,S3,,,,,"/>
+<approved hash="113,1,78.74,-76.5895,E,,,,,"/>
+<approved hash="113,1,78.74,-63.8895,F,,,,,"/>
+<approved hash="113,1,78.74,-89.2895,D,,,,,"/>
+<approved hash="113,1,78.74,-124.849,C,,,,,"/>
+<approved hash="113,1,78.74,-137.549,A,,,,,"/>
+<approved hash="113,1,78.74,-150.249,B,,,,,"/>
 <approved hash="113,1,20.32,-8.61483,R2,,,,,"/>
 <approved hash="113,1,-3.40869,3.81,C6,,,,,"/>
 <approved hash="113,1,1.6713,3.81,C5,,,,,"/>
-<approved hash="113,1,6.7513,3.81,C2,,,,,"/>
-<approved hash="113,1,134.62,-69.4605,RN4,,,,,"/>
-<approved hash="113,1,143.121,-162.56,RN3,,,,,"/>
-<approved hash="113,1,157.48,-93.0995,RN6,,,,,"/>
-<approved hash="113,1,143.121,-137.16,RN5,,,,,"/>
-<approved hash="113,1,89.7805,-60.96,RN2,,,,,"/>
-<approved hash="113,1,105.021,-60.96,RN1,,,,,"/>
 <approved hash="113,1,122.157,2.67123,JP1,,,,,"/>
 <approved hash="113,1,122.157,-15.1088,JP2,,,,,"/>
-<approved hash="113,1,19.05,-18.6487,C7,,,,,"/>
+<approved hash="113,1,19.05,-26.2687,C7,,,,,"/>
+<approved hash="113,1,61.3198,3.81,C3,,,,,"/>
+<approved hash="113,1,58.1872,-1.27,C4,,,,,"/>
+<approved hash="113,1,14.3713,-21.59,C1,,,,,"/>
+<approved hash="113,1,87.9052,-58.42,R3,,,,,"/>
+<approved hash="113,1,90.4452,-58.42,R4,,,,,"/>
+<approved hash="113,1,92.9852,-58.42,R5,,,,,"/>
+<approved hash="113,1,98.0652,-58.42,R6,,,,,"/>
+<approved hash="113,1,100.605,-58.42,R7,,,,,"/>
+<approved hash="113,1,103.145,-58.42,R8,,,,,"/>
+<approved hash="113,1,134.62,-69.5748,R11,,,,,"/>
+<approved hash="113,1,134.62,-82.2748,R12,,,,,"/>
+<approved hash="113,1,134.62,-94.9748,R13,,,,,"/>
+<approved hash="113,1,134.62,-130.535,R14,,,,,"/>
+<approved hash="113,1,134.62,-143.235,R15,,,,,"/>
+<approved hash="113,1,134.62,-155.935,R16,,,,,"/>
+<approved hash="113,1,143.235,-162.56,R23,,,,,"/>
+<approved hash="113,1,143.235,-147.32,R22,,,,,"/>
+<approved hash="113,1,143.235,-134.62,R21,,,,,"/>
+<approved hash="113,1,153.395,-104.14,R20,,,,,"/>
+<approved hash="113,1,143.235,-104.14,R19,,,,,"/>
+<approved hash="113,1,143.235,-86.36,R18,,,,,"/>
+<approved hash="113,1,143.235,-73.66,R17,,,,,"/>
+<approved hash="113,1,45.72,-23.8548,R9,,,,,"/>
+<approved hash="113,1,45.72,-26.3948,R10,,,,,"/>
+<approved hash="113,1,162.56,-13.1868,REG1,,,,,"/>
+<approved hash="113,1,144.547,-24.13,C2,,,,,"/>
 </errors>
 </schematic>
 </drawing>
